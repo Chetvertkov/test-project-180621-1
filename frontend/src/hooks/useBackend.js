@@ -1,5 +1,5 @@
-const backendEndPoint = 'http://localhost:5000';
-// const backendEndPoint = 'http://194.67.93.87:5000';
+// const backendEndPoint = 'http://localhost:5000';
+const backendEndPoint = 'http://81.163.31.205:5000';
 console.log('backendEndPoint', backendEndPoint)
 const useBackend = ()=>{
 
